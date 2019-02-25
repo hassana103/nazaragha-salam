@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         //vp.setPageTransformer(true, new ZoomOutPageTransformer());
 
 
-        startGalleryAnimation();
+        //startGalleryAnimation();
 
 
     }
