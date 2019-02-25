@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         vp=(ViewPager) findViewById(R.id.gallery_main);
         vp.setAdapter(ga);
 
-        vp.setPageTransformer(true, new ZoomOutPageTransformer());
+        //vp.setPageTransformer(true, new ZoomOutPageTransformer());
 
 
         startGalleryAnimation();
